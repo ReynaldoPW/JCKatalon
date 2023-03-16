@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Add CandidateFull NameVacancySoftware E_fea3c5</name>
+   <tag></tag>
+   <elementGuidId>83287828-99ec-4e85-8af3-2a4603e2077d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-layout-context</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ee599836-fbd9-41ed-b2cb-091c70ba8234</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-layout-context</value>
+      <webElementGuid>ed8042e9-ebf6-43f1-b5d1-f5c9e8ae2157</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add CandidateFull NameVacancySoftware EngineerEmailContact NumberResumeBrowseNo file selectedAccepts .docx, .doc, .odt, .pdf, .rtf, .txt up to 1MBKeywordsDate of ApplicationNotesConsent to keep data * Required Cancel  Save </value>
+      <webElementGuid>0d1ae4c6-5638-4459-9340-a354ceacf489</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]</value>
+      <webElementGuid>253e2137-236b-447a-b4f9-0e2141f12168</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]</value>
+      <webElementGuid>cc5f92c1-d718-4415-b27b-8de278b634f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>83c03514-f62d-4fbc-a71a-d67374a2e5a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Add CandidateFull NameVacancySoftware EngineerEmailContact NumberResumeBrowseNo file selectedAccepts .docx, .doc, .odt, .pdf, .rtf, .txt up to 1MBKeywordsDate of ApplicationNotesConsent to keep data * Required Cancel  Save ' or . = 'Add CandidateFull NameVacancySoftware EngineerEmailContact NumberResumeBrowseNo file selectedAccepts .docx, .doc, .odt, .pdf, .rtf, .txt up to 1MBKeywordsDate of ApplicationNotesConsent to keep data * Required Cancel  Save ')]</value>
+      <webElementGuid>8903d48b-cd4a-42bd-aa6c-a4f40498f307</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
