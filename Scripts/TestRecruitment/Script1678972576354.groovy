@@ -37,17 +37,16 @@ WebUI.setText(findTestObject('Object Repository/RecruitmentPage/Page_OrangeHRM/i
 
 WebUI.setText(findTestObject('Object Repository/RecruitmentPage/Page_OrangeHRM/input_Full Name_lastName'), 'Wonges')
 
-
 WebUI.setText(findTestObject('Object Repository/RecruitmentPage/Page_OrangeHRM/input_Email_oxd-input oxd-input--focus'), 
     'rey@Test.com')
 
-
 WebUI.click(findTestObject('Object Repository/RecruitmentPage/Page_OrangeHRM/div_Add CandidateFull NameVacancySoftware E_fea3c5'))
-
 
 WebUI.click(findTestObject('Object Repository/RecruitmentPage/Page_OrangeHRM/i_Consent to keep data_oxd-icon bi-check ox_63b9ed'))
 
 WebUI.click(findTestObject('Object Repository/RecruitmentPage/Page_OrangeHRM/button_Save'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/RecruitmentPage/Page_OrangeHRM/p_Success'), 'Success')
+
+WebUI.closeBrowser()
 
